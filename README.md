@@ -45,6 +45,7 @@ I dati elaborati con Python sono stati utilizzati in Power BI per creare una das
 - filtri per Country, Warehouse, Owner e Priority
 - tabella di dettaglio degli ordini pending
 
+
 ## Project Structure
 
 ```text
@@ -57,3 +58,6 @@ Capstone_Pending_Orders
 ├── pending_orders_analysis.py
 │
 └── Pending_Orders_Monitoring_Dashboard.pbix
+
+Author
+Ines
